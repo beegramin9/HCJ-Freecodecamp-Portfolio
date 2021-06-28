@@ -1,10 +1,6 @@
-# Portfolio Website
+# Latest Release (2021/03/05)
 
 ![Generic badge](https://img.shields.io/badge/build-passing-green.svg)
-![Generic badge](https://img.shields.io/badge/coverage-badge-80%-green.svg)
-![Generic badge](https://img.shields.io/badge/coverage-80%-green.svg)
-
-# Latest Release (2021/03/05)
 
 We're happy to announce the release of Pinpoint v2.2.2. Please check the release note at (https://github.com/pinpoint-apm/pinpoint/releases/tag/v2.2.2).
 
@@ -12,9 +8,12 @@ The current stable version is v2.2.2.
 
 # Overview
 
-<img width="904" alt="introduction" src="https://user-images.githubusercontent.com/58083434/123571885-22316d00-d806-11eb-8731-0a3d9c374d4c.png">
-<img width="895" alt="nav-bar" src="https://user-images.githubusercontent.com/58083434/123571907-2f4e5c00-d806-11eb-9bfc-45d06fe9091f.png">
-<img width="890" alt="my-work" src="https://user-images.githubusercontent.com/58083434/123571935-3bd2b480-d806-11eb-9741-a0a522ca14bb.png">
+- main page
+  <img width="904" alt="introduction" src="https://user-images.githubusercontent.com/58083434/123571885-22316d00-d806-11eb-8731-0a3d9c374d4c.png">
+- navigation bar
+  <img width="895" alt="nav-bar" src="https://user-images.githubusercontent.com/58083434/123571907-2f4e5c00-d806-11eb-9bfc-45d06fe9091f.png">
+- supports highlights with some visual effects
+  <img width="890" alt="my-work" src="https://user-images.githubusercontent.com/58083434/123571935-3bd2b480-d806-11eb-9741-a0a522ca14bb.png">
 
 # 🛠Technology Stack⚒
 
