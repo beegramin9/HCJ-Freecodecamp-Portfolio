@@ -25,6 +25,7 @@ The current stable version is v0.0.1.
 
 # Features
 
+- built reponsive web with @media
 - covers all design with CSS3, no other framework such as Bootstrap used
 - navigation bar button with toggle feature supported by Javascript
 - moves onto sections with a click of the menu on navigation bar
