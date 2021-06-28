@@ -1,6 +1,7 @@
 # Portfolio Website
 
 ![Generic badge](https://img.shields.io/badge/build-passing-green.svg)
+![Generic badge](https://img.shields.io/badge/coverage-badge-80%-green.svg)
 ![Generic badge](https://img.shields.io/badge/coverage-80%-green.svg)
 
 # Latest Release (2021/03/05)
