@@ -1,6 +1,7 @@
-# 로고
+# Portfolio Website
 
-build, passing coverage 80% gzip size
+![Generic badge](https://img.shields.io/badge/build-passing-green.svg)
+![Generic badge](https://img.shields.io/badge/coverage-80%-green.svg)
 
 # Latest Release (2021/03/05)
 
@@ -16,11 +17,11 @@ The current stable version is v2.2.2.
 
 # 🛠Technology Stack⚒
 
-html css javasciprt
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+
+<!-- React #61DAFB -->
 
 # Features
 
